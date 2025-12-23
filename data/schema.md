@@ -14,7 +14,7 @@ equity identifiers.
 | Column | Description |
 |------|------------|
 | Dates | Trading date (YYYY-MM-DD) |
-| <TICKER> | Daily last price for asset |
+| TICKER | Daily last price for asset |
 
 Example tickers:
 - A UN Equity
