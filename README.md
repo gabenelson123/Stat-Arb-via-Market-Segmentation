@@ -72,6 +72,3 @@ The backtesting engine supports:
 Results are stored in a structured `results/` directory for reproducibility.
 
 ---
-
-## Repository Structure
-
