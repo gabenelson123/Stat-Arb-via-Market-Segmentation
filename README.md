@@ -73,4 +73,4 @@ Results are stored in a structured `results/` directory for reproducibility.
 
 ---
 ## Presentation:
-[Final Presentation (PDF)](report/Stat Arb Final Presentation.pdf)
+[Final Presentation (PDF)](report/Stat_Arb_Final_Presentation.pdf)
