@@ -24,6 +24,7 @@ pip install -r requirements.txt
 
 Optional experiments:
 
+```bash
 pip install -r requirements-graph.txt   # graphical lasso visualization
 pip install -r requirements-ml.txt      # autoencoder experiment
 
