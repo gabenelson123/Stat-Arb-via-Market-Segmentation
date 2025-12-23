@@ -1,6 +1,6 @@
 ,AAPL UW Equity,AA UN Equity,A UN Equity
-,,,
-Dates,,,
+,last_price,last_price,last_price
+Dates,PX_LAST,PX_LAST,PX_LAST
 1/4/10,185.64,63.22,121.31
 1/5/10,183.11,62.87,119.84
 1/6/10,181.93,61.45,118.72
