@@ -13,7 +13,7 @@ equity identifiers.
 
 | Column | Description |
 |------|------------|
-| Dates | Trading date (YYYY-MM-DD) |
+| Dates | Trading date (D/M/YY) |
 | TICKER | Daily last price for asset |
 
 Example tickers:
