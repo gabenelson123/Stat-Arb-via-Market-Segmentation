@@ -1,0 +1,23 @@
+# Ignore all raw data files
+*.csv
+*.parquet
+*.feather
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.npy
+*.npz
+
+# Ignore compressed data
+*.zip
+*.tar
+*.tar.gz
+*.7z
+
+# Ignore temporary / download artifacts
+*.tmp
+*.log
+
+# Allow documentation files
+!README.md
